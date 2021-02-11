@@ -46,7 +46,7 @@ body {
      height: 400px;
      width: 50%;
      margin-left:12px;
-     margin-right: 12px;
+     margin-right: 13px;
      margin-top: 15px;
      margin-bottom: 10px;
      background-color: aqua;
@@ -62,4 +62,12 @@ body {
     margin-left: 10px;
     background-color: aqua;
     float: left;
+ }
+
+
+ .fondo {
+    height: 430px;
+    margin-bottom: 10px;
+    background-color: blue;
+    
  }
