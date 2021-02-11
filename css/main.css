@@ -1,14 +1,14 @@
 /* Style */
 
 * {
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 80px;
+    margin-left: 80px;
     padding:0;
     box-sizing: border-box;
-}
+ }
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif
-}
+ }
 
  /*Header */
  header {
@@ -20,13 +20,19 @@ body {
 /*container */
 
 .container {
-    height: 500px;
+    height: 200px;
     margin-bottom: 10px;
     background-color: orangered;
-}
+ }
 
 .mid {
     height: 100px;
     margin-bottom: 10px;
     background-color: yellow;
-}
+   }
+
+.main {
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: aqua;
+ }
