@@ -1,7 +1,8 @@
 /* Style */
 
 * {
-    margin:0;
+    margin-right: 40px;
+    margin-left: 40px;
     padding:0;
     box-sizing: border-box;
 }
@@ -22,4 +23,10 @@ body {
     height: 500px;
     margin-bottom: 10px;
     background-color: orangered;
+}
+
+.mid {
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: yellow;
 }
