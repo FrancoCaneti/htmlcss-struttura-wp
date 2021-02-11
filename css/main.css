@@ -27,8 +27,8 @@ body {
 
 .mid {
     height: 100px;
-    margin-bottom: 10px;
-    background-color: yellow;
+   
+    background-color: aqua;
    }
 /* main content */
 
@@ -45,8 +45,8 @@ body {
      .box2 {
      height: 400px;
      width: 50%;
-     margin-left:12px;
-     margin-right: 13px;
+     margin-left:13px;
+     margin-right: 12px;
      margin-top: 15px;
      margin-bottom: 10px;
      background-color: aqua;
@@ -70,4 +70,11 @@ body {
     margin-bottom: 10px;
     background-color: blue;
     
+    
+ }
+ .foot{
+    height: 100px;
+    margin-bottom: 10px;
+    background-color:royalblue;
+    float:none;
  }
