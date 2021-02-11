@@ -1,0 +1,23 @@
+/* Style */
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+ /*Header */
+ header {
+     height: 100px;
+     margin-bottom: 10px;
+     background-color: orange;
+ }
+
+ /*Main Content*/
+ main .sidebar,
+ main .main-sidebar {
+     float: left
+ }
