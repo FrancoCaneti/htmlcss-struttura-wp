@@ -16,8 +16,10 @@ body {
      background-color: orange;
  }
 
- /*Main Content*/
- main .sidebar,
- main .main-sidebar {
-     float: left
- }
+/*container */
+
+.container {
+    height: 500px;
+    margin-bottom: 10px;
+    background-color: orangered;
+}
